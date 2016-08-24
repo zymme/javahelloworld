@@ -7,5 +7,7 @@ public class JavaHelloWorld {
     System.out.println("Hello out there!!");
 
     System.out.println("Adding in a new feature!!! SO COOL! (testing triggering auto build with docker hub!)");
+
+    System.out.println("Adding more for demooo....");
   }
 }
